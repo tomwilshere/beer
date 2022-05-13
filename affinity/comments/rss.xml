@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Comments on Affinity</title>
+		<link>https://www.bermondsey-beer-mile.co.uk/affinity.html</link>
+		<description></description>
+		<language>en-us</language>
+		<generator>http://www.typepad.com/</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="https://www.bermondsey-beer-mile.co.uk/affinity/comments/rss.xml" type="application/rss+xml" />
+		<docs>http://www.rssboard.org/rss-specification</docs>
+		<lastBuildDate>Mon, 18 Jun 2018 17:07:08 +0100</lastBuildDate>
+		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+		<item>
+			<title>Pete commented on &#39;Affinity&#39;</title>
+			<link>https://www.bermondsey-beer-mile.co.uk/affinity.html?cid=6a00d83451b66d69e20278801d376a200d#comment-6a00d83451b66d69e20278801d376a200d</link>
+			<dc:creator>Pete</dc:creator> 
+			<guid isPermaLink="true">https://www.bermondsey-beer-mile.co.uk/affinity.html?cid=6a00d83451b66d69e20278801d376a200d#comment-6a00d83451b66d69e20278801d376a200d</guid>
+			<pubDate>Mon, 22 Mar 2021 21:00:08 +0000</pubDate>
+			<description>&lt;p&gt;These guys have now moved - they sold the unit to these chaps who are putting their license together:&lt;br /&gt;
+&lt;a href=&quot;https://www.threehillsbrewing.com/&quot; rel=&quot;nofollow&quot;&gt;https://www.threehillsbrewing.com/&lt;/a&gt;&lt;/p&gt;</description>
+		</item>
+		<item>
+			<title>Lisster commented on &#39;Affinity&#39;</title>
+			<link>https://www.bermondsey-beer-mile.co.uk/affinity.html?cid=6a00d83451b66d69e2025d9b37e222200c#comment-6a00d83451b66d69e2025d9b37e222200c</link>
+			<dc:creator>Lisster</dc:creator> 
+			<guid isPermaLink="true">https://www.bermondsey-beer-mile.co.uk/affinity.html?cid=6a00d83451b66d69e2025d9b37e222200c#comment-6a00d83451b66d69e2025d9b37e222200c</guid>
+			<pubDate>Sat, 14 Mar 2020 10:34:23 +0000</pubDate>
+			<description>&lt;p&gt;Had a lovely time visiting a few of these bars yesterday, but just to mention Affinity was actually closed on a Sunday (though google maps told us Kernel would be closed and it wasn&amp;#39;t!) Thanks for the guide.&lt;/p&gt;</description>
+		</item>
+	</channel>
+</rss>
+
+<!-- ph=1 -->

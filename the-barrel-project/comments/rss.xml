@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Comments on The Barrel Project</title>
+		<link>https://www.bermondsey-beer-mile.co.uk/the-barrel-project.html</link>
+		<description></description>
+		<language>en-us</language>
+		<generator>http://www.typepad.com/</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="https://www.bermondsey-beer-mile.co.uk/the-barrel-project/comments/rss.xml" type="application/rss+xml" />
+		<docs>http://www.rssboard.org/rss-specification</docs>
+		<lastBuildDate>Mon, 18 Jun 2018 17:03:04 +0100</lastBuildDate>
+		<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+		<item>
+			<title>SpankTM commented on &#39;The Barrel Project&#39;</title>
+			<link>https://www.bermondsey-beer-mile.co.uk/the-barrel-project.html?cid=6a00d83451b66d69e2022ad3843574200c#comment-6a00d83451b66d69e2022ad3843574200c</link>
+			<dc:creator>SpankTM</dc:creator> 
+			<guid isPermaLink="true">https://www.bermondsey-beer-mile.co.uk/the-barrel-project.html?cid=6a00d83451b66d69e2022ad3843574200c#comment-6a00d83451b66d69e2022ad3843574200c</guid>
+			<pubDate>Fri, 28 Dec 2018 17:28:48 +0000</pubDate>
+			<description>&lt;p&gt;James (assuming you&amp;#39;re both the same James) - Yes, we&amp;#39;ve checked you out this month and liked what we saw. Post has been updated accordingly.&lt;/p&gt;</description>
+		</item>
+		<item>
+			<title>James commented on &#39;The Barrel Project&#39;</title>
+			<link>https://www.bermondsey-beer-mile.co.uk/the-barrel-project.html?cid=6a00d83451b66d69e2022ad382e018200c#comment-6a00d83451b66d69e2022ad382e018200c</link>
+			<dc:creator>James</dc:creator> 
+			<guid isPermaLink="true">https://www.bermondsey-beer-mile.co.uk/the-barrel-project.html?cid=6a00d83451b66d69e2022ad382e018200c#comment-6a00d83451b66d69e2022ad382e018200c</guid>
+			<pubDate>Fri, 21 Dec 2018 21:41:42 +0000</pubDate>
+			<description>&lt;p&gt;We&amp;#39;re fully open and are soon releasing house barreled beers. Come check us out again. It&amp;#39;s a completely revamped look! Opening hours: Wed-Fri: 4-11, Sat: 11-11, Sun: 12-7. Cheers! &lt;/p&gt;</description>
+		</item>
+		<item>
+			<title>James commented on &#39;The Barrel Project&#39;</title>
+			<link>https://www.bermondsey-beer-mile.co.uk/the-barrel-project.html?cid=6a00d83451b66d69e2022ad3796dc5200c#comment-6a00d83451b66d69e2022ad3796dc5200c</link>
+			<dc:creator>James</dc:creator> 
+			<guid isPermaLink="true">https://www.bermondsey-beer-mile.co.uk/the-barrel-project.html?cid=6a00d83451b66d69e2022ad3796dc5200c#comment-6a00d83451b66d69e2022ad3796dc5200c</guid>
+			<pubDate>Tue, 13 Nov 2018 14:51:53 +0000</pubDate>
+			<description>&lt;p&gt;Open as of November 2018. Nice new tile &amp;amp; concrete bar installed.&lt;/p&gt;</description>
+		</item>
+	</channel>
+</rss>
+
+<!-- ph=1 -->

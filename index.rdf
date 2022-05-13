@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="https://www.bermondsey-beer-mile.co.uk/">
+<title>The Bermondsey Beer Mile</title>
+<link>https://www.bermondsey-beer-mile.co.uk/</link>
+<description>An unofficial celebration of London&#39;s finest stretch of artisanal boozers, by Spank The Monkey and The Belated Birthday Girl. Updated 02/02/2022 with latest statuses for all bars: we&#39;ll get around to updating the news section soon.</description>
+<dc:language>en-US</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2021-02-21T10:10:00+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.typepad.com/" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="https://www.bermondsey-beer-mile.co.uk/2021/02/the-bermondsey-beer-mile-an-unofficial-introduction.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="https://www.bermondsey-beer-mile.co.uk/2021/02/the-bermondsey-beer-mile-an-unofficial-introduction.html">
+<title>The Bermondsey Beer Mile: An Unofficial Introduction</title>
+<link>https://www.bermondsey-beer-mile.co.uk/2021/02/the-bermondsey-beer-mile-an-unofficial-introduction.html</link>
+<description>For those of you who don&#39;t know: the Bermondsey Beer Mile is a loose amalgamation of brewery bars and bottle shops, located along a stretch of railway arch that&#39;s closer to two miles long nowadays. The one thing they have in common is that they&#39;re all open at roughly the...</description>
+<content:encoded>&lt;p&gt;&lt;a class=&quot;asset-img-link&quot; href=&quot;https://spank-the-monkey.typepad.com/.a/6a00d83451b66d69e2026bdeda6ad9200c-popup&quot; onclick=&quot;window.open( this.href, &amp;#39;_blank&amp;#39;, &amp;#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&amp;#39; ); return false&quot;&gt;&lt;img alt=&quot;Druid Street&quot; class=&quot;asset  asset-image at-xid-6a00d83451b66d69e2026bdeda6ad9200c img-responsive&quot; src=&quot;https://spank-the-monkey.typepad.com/.a/6a00d83451b66d69e2026bdeda6ad9200c-640wi&quot; style=&quot;width: 640px; display: block; margin-left: auto; margin-right: auto;&quot; title=&quot;Druid Street&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;For those of you who don&amp;#39;t know: the Bermondsey Beer Mile is a loose amalgamation of brewery bars and bottle shops, located along a stretch of railway arch that&amp;#39;s closer to &lt;em&gt;two&lt;/em&gt; miles long nowadays. The one thing they have in common is that they&amp;#39;re all open at roughly the same time on a Saturday afternoon, giving those of you who fancy some exercise the chance to indulge in a rather fine pub crawl. As long as you can find your way between all the bars, of course.&lt;/p&gt;
+&lt;p&gt;And this is the problem: because the Mile is something that&amp;#39;s grown organically over a period of years, and there&amp;#39;s no definitive central resource you can consult in order to find out where all the bars are. New ones keep opening, and old ones change location. Virtually all of the documentation of the Mile on the internet consists of one-off blog posts that quickly go out of date. I should know, as I wrote one of those myself back in &lt;a href=&quot;//spank-the-monkey.typepad.com/blog/2014/09/bermondsey-beer-mile-the-wrong-way.html&quot;&gt;2014&lt;/a&gt;, and it&amp;#39;s full of mistakes now.&lt;/p&gt;
+&lt;p&gt;(I&amp;#39;m Spank The Monkey, by the way: I&amp;#39;ve had &lt;a href=&quot;//spank-the-monkey.typepad.com/&quot;&gt;an arts and entertainment review blog&lt;/a&gt; on the internet for over two decades. Most of the words you&amp;#39;re going to see on here are mine, with additional contributions and photography by my pal The Belated Birthday Girl. If you&amp;#39;re curious to see what the Mile looked like in olden days, &lt;a href=&quot;https://photos.app.goo.gl/h4WvfKhAcKes549B8&quot;&gt;here are some pictures The BBG took of it back in 2014&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;In the absence of any official site relating to the Mile, we&amp;#39;ve decided to start an unofficial one. We&amp;#39;ll attempt to document all of the bars currently on the route, and how to get between them all: and whenever we hear about any changes we&amp;#39;ll update the site as soon as we can. (You can help with this - feel free to drop us notes in the comments boxes if you find that anything&amp;#39;s altered since we wrote about it. We&amp;#39;ve included links to the official sites of all the bars, which should hopefully have the most up-to-date information.)&lt;/p&gt;
+&lt;p&gt;Here&amp;#39;s the route as it currently stands. (You could start at the other end and work in the opposite direction, but I&amp;#39;ll explain why we&amp;#39;re doing it this way round in the first post.) Links with distances in them will give you a map of how to get there: links with a bar name in bold will take you to a separate page with more details about it. Bars with an asterisk next to their name also brew beer on the same premises. It may be worth checking the individual Twitter feeds of the bars before heading out there, just to check their current status.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://g.page/maltbystmkt?share&quot;&gt;Start&lt;/a&gt; at &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/maltby-street-market.html&quot;&gt;&lt;strong&gt;Maltby Street Market&lt;/strong&gt;&lt;/a&gt; (not actually a bar, more of a pre-Mile breakfast location, though there are bars in the market too)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/nnj9uHbWgx2FbTwn7&quot;&gt;Walk 170m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/southwark-brewing.html&quot;&gt;&lt;strong&gt;Southwark Brewing*&lt;/strong&gt;&lt;/a&gt;, 46 Druid Street&lt;em&gt; [&lt;a href=&quot;https://twitter.com/southwarkbeer&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/qVXs6xzNQ4p&quot;&gt;Walk 170m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/the-barrel-project.html&quot;&gt;&lt;strong&gt;The Barrel Project&lt;/strong&gt;&lt;/a&gt;, 80 Druid Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/LDNBEERFACTORY&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/mCSPFHmSjEQ2&quot;&gt;Walk 50m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/hawkes-cider.html&quot;&gt;&lt;strong&gt;Hawkes Cider*&lt;/strong&gt;&lt;/a&gt;, 92/96 Druid Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/HawkesCiderTap&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/PXmYsrChcPk1vuBf9&quot;&gt;Walk 75m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/billy-franks-craft-beer-snack-shack.html&quot;&gt;&lt;strong&gt;Billy Franks Craft Beer &amp;amp; Snack Shack&lt;/strong&gt;&lt;/a&gt;, 104 Druid Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/billyfrankscouk&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/uyQ5e13NA5s1fbEHA&quot;&gt;Walk 81m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/hiver-all-good-beer.html&quot;&gt;&lt;strong&gt;Hiver&lt;/strong&gt;&lt;/a&gt;, 56 Stanworth Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/HiverBeers&quot;&gt;Twitter&lt;/a&gt;] &lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/5ow7hysLNC9BySoLA&quot;&gt;Walk 150m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/anspach-hobday.html&quot;&gt;&lt;strong&gt;Anspach &amp;amp; Hobday*&lt;/strong&gt;&lt;/a&gt;, 118 Druid Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/TheArchHouse_AH&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/NtQ7R4aaFho5qhrP9&quot;&gt;Walk 220m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/moor-beer.html&quot;&gt;&lt;strong&gt;Moor Beer&lt;/strong&gt;&lt;/a&gt;, 71 Enid Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/MoorVaults&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/YNMW8bWVTcT6AiZU9&quot;&gt;Walk 54m&lt;/a&gt; to &lt;a href=&quot;https://www.bermondsey-beer-mile.co.uk/cloudwater.html&quot;&gt;&lt;strong&gt;Cloudwater&lt;/strong&gt;&lt;/a&gt;, 73 Enid Street&lt;em&gt; [&lt;a href=&quot;https://twitter.com/73EnidSt&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/h8HV8EAXGv52&quot;&gt;Walk 23m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/brew-by-numbers.html&quot;&gt;&lt;strong&gt;Brew By Numbers*&lt;/strong&gt;&lt;/a&gt;, 75/79 Enid Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/BrewByNumbers&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/5CW21ParfR422ZTD9&quot;&gt;Walk 61m&lt;/a&gt; to &lt;a href=&quot;https://www.bermondsey-beer-mile.co.uk/bianca-road.html&quot;&gt;&lt;strong&gt;Bianca Road*&lt;/strong&gt;&lt;/a&gt;, 83-84 Enid Street &lt;em&gt;[&lt;a href=&quot;https://twitter.com/biancaroad&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/43ys9mmnRc4QKtKh8&quot;&gt;Walk 19m&lt;/a&gt; to &lt;a href=&quot;https://www.bermondsey-beer-mile.co.uk/craft-beer-junction.html&quot;&gt;&lt;strong&gt;Craft Beer Junction&lt;/strong&gt;&lt;/a&gt;, 86 Enid Street &lt;em&gt;[&lt;a href=&quot;https://www.instagram.com/craftbeerjunction/?hl=en&quot;&gt;Instagram&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/J87JJssu5Vh3xFWd7&quot;&gt;Walk 322m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/old-jamaica-business-estate.html&quot;&gt;&lt;strong&gt;Old Jamaica Business Estate&lt;/strong&gt;&lt;/a&gt;, 24 Old Jamaica Road (not actually a bar, but a useful halfway point for stopping to eat something)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/LyDaRxi11XqoKUDS6&quot;&gt;Walk 260m&lt;/a&gt; to &lt;strong&gt;&lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/the-kernel.html&quot;&gt;The Kernel*&lt;/a&gt;&lt;/strong&gt;, Arch 7, Dockley Road Industrial Estate&lt;em&gt; [&lt;a href=&quot;https://twitter.com/thekernelarch7&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot; https://goo.gl/maps/7jikPpxU1d4jfBVW7&quot;&gt;Walk 1km&lt;/a&gt; to &lt;strong&gt;&lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/the-outpost-three-hills-brewing.html&quot;&gt;The Outpost – Three Hills Brewing*&lt;/a&gt;&lt;/strong&gt;, 7 Almond Road &lt;em&gt;[&lt;a href=&quot;https://twitter.com/threehillsbrew&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot; https://goo.gl/maps/qT4PBQzJugRYy5bX6&quot;&gt;Walk 140m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/spartan.html&quot;&gt;&lt;strong&gt;Spartan*&lt;/strong&gt;&lt;/a&gt;, 8 Almond Road&lt;em&gt; [&lt;a href=&quot;https://twitter.com/spartanbrewery&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/vvSC6UeC2dD2&quot;&gt;Walk 130m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/eebria.html&quot;&gt;&lt;strong&gt;EeBria&lt;/strong&gt;&lt;/a&gt;, 15 Almond Road &lt;em&gt;[&lt;a href=&quot;https://twitter.com/EeBriaTap&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/KqHgP3zevSF2&quot;&gt;Walk 210m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/partizan.html&quot;&gt;&lt;strong&gt;Partizan*&lt;/strong&gt;&lt;/a&gt;, 34 Raymouth Road &lt;em&gt;[&lt;a href=&quot;https://twitter.com/PartizanBrewing&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/maps/bTm2atKemKE2&quot;&gt;Walk 650m&lt;/a&gt; to &lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/fourpure.html&quot;&gt;&lt;strong&gt;Fourpure*&lt;/strong&gt;&lt;/a&gt;, 22 Bermondsey Trading Estate&lt;em&gt; [&lt;a href=&quot;https://twitter.com/fourpurebrewing&quot;&gt;Twitter&lt;/a&gt;]&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;In memoriam section:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/the-bottle-shop.html&quot;&gt;&lt;strong&gt;The Bottle Shop&lt;/strong&gt;&lt;/a&gt;, 128 Druid Street &lt;strong&gt;- closed down March 2019&lt;br /&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/ubrew.html&quot;&gt;&lt;strong&gt;uBrew*&lt;/strong&gt;&lt;/a&gt;, 29-30 Old Jamaica Business Estate, 24 Old Jamaica Road - &lt;strong&gt;closed down September 2019&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/affinity.html&quot;&gt;&lt;strong&gt;Affinity*&lt;/strong&gt;&lt;/a&gt;, 7 Almond Road - &lt;strong&gt;moved out July 2020&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;//www.bermondsey-beer-mile.co.uk/london-calling-sweden.html&quot;&gt;&lt;strong&gt;London Calling Sweden&lt;/strong&gt;&lt;/a&gt;, 72 Enid Street - &lt;strong&gt;closed down Spring 2021&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;News (23/06/2021)&lt;/h2&gt;
+&lt;p&gt;We did a small research trip down the Mile in January 2020, so we could answer a couple of questions about accessibility and alcohol-free beer. A few weeks after that, the lurgy struck. Which is why there&amp;#39;s been a seventeen-month gap between that visit and our next one. So rather than relying on other people&amp;#39;s comments - which have been brilliant, and thank you all for those - we can now give you some first-hand info on how things looked along the Mile as of June 19th, 2021.&lt;/p&gt;
+&lt;p&gt;As has already been mentioned in news updates, we&amp;#39;ve lost two venues - Affinity have comfortably settled into their new digs, while London Calling Sweden finally put its premises up for sale this month. On the other hand, we&amp;#39;ve now got three new players to contend with: Billy Franks has expanded its jerky business into a bottle shop, Craft Beer Junction is presenting a curated selection of imports on tap, and Three Hills has taken over Affinity&amp;#39;s arch. Holding pages are in place on this site for all three, and full reviews should appear soon.&lt;/p&gt;
+&lt;p&gt;At the time of writing, we&amp;#39;ve got at least another three weeks of &lt;a href=&quot;https://www.gov.uk/guidance/covid-19-coronavirus-restrictions-what-you-can-and-cannot-do&quot;&gt;step 3 lockdown&lt;/a&gt; to go - but it should be noted that every bar on the Mile is currently open in some form or other, at least on Saturday afternoons. All of them, as predicted in our previous news update, are spilling out onto the pavement and using the road space to maximise the number of people who can drink there. Remember a year or two ago when Southwark Council were cracking down on on-street drinking? Not any more, apparently. The rules are that all drinkers have to be seated, which means many of the bars are having to limit numbers (spectacularly in the case of Cloudwater, who only have four tables to play with). But on a grey Saturday afternoon like the one we&amp;#39;ve just had, the Mile isn&amp;#39;t attracting the same huge crowds as usual, so it&amp;#39;s relatively easy to get served in most places, with table service becoming the norm. We&amp;#39;ll put a bit more detail on each of the bar pages when we have time.&lt;/p&gt;
+&lt;p&gt;We&amp;#39;re not quite out of the woods yet, so behave yourselves for a little longer and we&amp;#39;ll see how things go.&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&quot;https://www.bermondsey-beer-mile.co.uk/news-archive.html&quot;&gt;News Archive&lt;/a&gt;]&lt;/p&gt;</content:encoded>
+
+
+<dc:subject>Food and Drink</dc:subject>
+
+<dc:creator>SpankTM</dc:creator>
+<dc:date>2021-02-21T10:10:00+00:00</dc:date>
+</item>
+
+
+</rdf:RDF>
+
+<!-- ph=1 -->
